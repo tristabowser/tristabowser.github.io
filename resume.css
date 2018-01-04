@@ -1,0 +1,111 @@
+body {
+	background:	linear-gradient(#f16a56, #5a6d8b);
+	margin: 			0px;
+}
+
+#wrapper {
+	width: 			1250px;
+	margin: 		5 auto;
+}
+
+#header {
+	background-color:	#f16a56;
+	width:				700px;
+	height: 			200px;
+	margin:				100px, 1000px, 100px, 100px;
+	float:				top;
+	text-align:			center;
+	font-family:      	Georgia, "Times New Roman", Times, serif;
+	font-size:        	large;
+	padding:			50px;
+	color:				#C1C1C1;
+}
+
+#top{
+	text-align:			center;
+	font-family:		"Vrinda";
+	font-size:        	35px;
+	color:            	#000000;
+	word-spacing:		20px;
+	text-decoration:	underline;
+}
+
+#middle{
+	margin:				50px;
+	text-align:			left;
+	font-family:		"Vrinda";
+	font-size:        	30px;
+	color:            	#000000;
+}
+
+#bottom{
+		text-align:		center;
+		font-family:	"Vrinda";
+		font-size:      30px;
+		color:          #000000;
+}	
+
+#footer {
+	background-color:	#FFD5E6;
+	width:				991px;
+	height: 			120px;
+	margin:				1225px 10px 10px 50px;
+	float:				bottom;
+	text-align:			center;
+	font-family:      	Georgia, "Times New Roman", Times, serif;
+	font-size:        	medium;
+	padding:			10px;
+	color:				#C1C1C1;
+	border:				solid;
+	border-color:		#C1C1C1;
+	border-radius:		0%;
+}
+
+h1 {
+	margin:				50px;
+	text-align:			center;
+	font-family:		"Trajan Pro";
+	font-size:			100px;
+	color:				#5a6d8b;
+	margin:				50px;
+	text-decoration:	bevel;
+}
+
+h3{
+	text-align:			left;
+	font-family:		"Vrinda";
+	font-size:        	50px;
+	color:            	#000000;
+}
+
+h4{
+	margin-left:		50px;
+	text-align:			left;
+	font-family:		"Vrinda";
+	font-size:        	30px;
+	color:            	#000000;
+}
+
+p {
+	text-align:			center;
+	font-family:		"Vrinda";
+	font-size:        	30px;
+	color:            	#000000;
+}
+
+li {
+	margin-left:		120px;
+	font-family:		"Vrinda";
+	font-size:        	30px;
+	color:            	#000000;
+}
+
+ul {
+	text-align:			left;
+}
+
+ol {
+	list-style-type:	none;
+	margin-right:		130px;
+	text-align:			center;
+}
